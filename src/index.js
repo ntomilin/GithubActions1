@@ -7,7 +7,3 @@ app.listen(3000,() => {
 app.get('/1', (req, res) => {
    res.send('OK');
 });
-
-app.get('/2', (req, res) => {
-    res.send('OK');
-});
