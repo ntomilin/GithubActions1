@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Custom Tag Increment
         id: hello
-        uses: ntomilin/TagBumper@v1.1
+        uses: ntomilin/TagBumper@v1.2
