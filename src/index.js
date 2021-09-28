@@ -11,3 +11,7 @@ app.get('/1', (req, res) => {
 app.get('/2', (req, res) => {
    res.send('OK');
 });
+
+app.get('/3', (req, res) => {
+   res.send('OK');
+});
