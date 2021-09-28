@@ -1,6 +1,6 @@
 const app = require('express')();
 
-app.listen(3001,() => {
+app.listen(3002,() => {
     console.log("Application is running on port");
 });
 
